@@ -1,0 +1,42 @@
+cd C:\laragon\www\centralized_masterfile\websocket
+start - node server.js
+Stop - Get-Process node | Stop-Process -Force
+
+PM2 COMMANDS - NODE.JS WEBSOCKET
+
+1. Allow PowerShell scripts (only once)
+   Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser -Force
+
+2. Install PM2 Locally
+   cd C:\laragon\www\centralized_masterfile\websocket
+   npm init -y
+   npm install pm2 --save
+
+3. Start WebSocket server via PM2
+   cd C:\laragon\www\centralized_masterfile\websocket
+   npx pm2 start server.js --name websocket-server
+
+4. Check running apps
+   npx pm2 list
+
+5. Save current PM2 process list
+   npx pm2 save
+
+6. Stop app
+   npx pm2 stop websocket-server
+
+7. Restart app
+   npx pm2 restart websocket-server
+
+8. Delete app from PM2
+   npx pm2 delete websocket-server
+
+9. View detailed logs
+   npx pm2 logs websocket-server
+
+10. Restore PM2 processes after reboot
+    npx pm2 resurrect
+
+11. Kill all PM2 processes (reset)
+    npx pm2 kill
+

@@ -1,0 +1,374 @@
+[30478791] - ===========================================================
+2026-03-27 00:53:35 [30478791] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:35 [30478791] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:35 [30478791] - *** WARNING *** Array
+(
+    [Error Msg] => Invalid argument supplied for foreach()
+    [File] => C:\laragon\www\ucloud\app\controllers\AccountController.class.php
+    [Line Number] => 142
+    [Error Type] => E_WARNING
+)
+
+2026-03-27 00:53:35 [30478791] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:35 [30478791] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:35 [30478791] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:35 [30478791] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:36 [30478791] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:36 [30478791] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:36 [30478791] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+[2746fa37] - ===========================================================
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - *** WARNING *** Array
+(
+    [Error Msg] => Invalid argument supplied for foreach()
+    [File] => C:\laragon\www\ucloud\app\controllers\AccountController.class.php
+    [Line Number] => 142
+    [Error Type] => E_WARNING
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:37 [2746fa37] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+[ffb9be7c] - ===========================================================
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - *** WARNING *** Array
+(
+    [Error Msg] => Invalid argument supplied for foreach()
+    [File] => C:\laragon\www\ucloud\app\controllers\AccountController.class.php
+    [Line Number] => 142
+    [Error Type] => E_WARNING
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [ffb9be7c] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+[a5b34f98] - ===========================================================
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => A non well formed numeric value encountered
+    [File] => C:\laragon\www\ucloud\app\helpers\CoreHelper.class.php
+    [Line Number] => 106
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - *** WARNING *** Array
+(
+    [Error Msg] => Invalid argument supplied for foreach()
+    [File] => C:\laragon\www\ucloud\app\controllers\AccountController.class.php
+    [Line Number] => 142
+    [Error Type] => E_WARNING
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:38 [a5b34f98] - Array
+(
+    [Error Msg] => Constant DB_ONLY already defined
+    [File] => C:\laragon\www\ucloud\plugins\fileimport\PluginFileimport.class.php
+    [Line Number] => 32
+    [Error Type] => E_NOTICE
+)
+
+[ba6d789a] - ===========================================================
+2026-03-27 00:53:39 [ba6d789a] - Array
+(
+    [Error Msg] => Trying to get property 'id' of non-object
+    [File] => C:\laragon\www\ucloud\app\services\file_manager\FolderFileManager.class.php
+    [Line Number] => 356
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:39 [ba6d789a] - Array
+(
+    [Error Msg] => Undefined property: App\Models\FileFolder::$coverImageId
+    [File] => C:\laragon\www\ucloud\app\models\FileFolder.class.php
+    [Line Number] => 31
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:39 [ba6d789a] - Array
+(
+    [Error Msg] => Trying to access array offset on value of type bool
+    [File] => C:\laragon\www\ucloud\app\models\FileFolder.class.php
+    [Line Number] => 47
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:39 [ba6d789a] - Array
+(
+    [Error Msg] => Trying to access array offset on value of type bool
+    [File] => C:\laragon\www\ucloud\app\models\FileFolder.class.php
+    [Line Number] => 49
+    [Error Type] => E_NOTICE
+)
+
+2026-03-27 00:53:39 [ba6d789a] - Array
+(
+    [Error Msg] => Trying to access array offset on value of type bool
+    [File] => C:\laragon\www\ucloud\app\models\FileFolder.class.php
+    [Line Number] => 52
+    [Error Type] => E_NOTICE
+)
+
+[7e86cc99] - ===========================================================
+2026-03-27 00:53:39 [7e86cc99] - Array
+(
+    [Error Msg] => Undefined index: shared_with_user_id
+    [File] => C:\laragon\www\ucloud\app\controllers\AccountFolderController.class.php
+    [Line Number] => 868
+    [Error Type] => E_NOTICE
+)
+
